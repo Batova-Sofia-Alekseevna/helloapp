@@ -11,3 +11,5 @@ function greetBlack() {
 }
 
 greet();
+greetWhite();
+greetBlack();
